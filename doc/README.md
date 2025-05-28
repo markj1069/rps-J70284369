@@ -2,7 +2,7 @@
 
 Andy Stapleton put out a video with his resources for a research paper search[^Andy].
 
-* Anna’s Archive[^Anna] contains SciHub references
+* Anna’s Archive[^Anna] contains Sci-Hub references
 * Sci-Hub[^Alex] appears to have stopped adding new papers in 2022.
 * Google Scolar[^Scolar] is the granddaddy of reference material.
 * Unpaywall[^Orr] focuses on open papers.
