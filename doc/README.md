@@ -7,6 +7,7 @@ Andy Stapleton put out a video with his resources for a research paper search[^A
 * Google Scolar[^Scolar] is the granddaddy of reference material.
 * Unpaywall[^Orr] focuses on open papers.
 * arXiv[^arXiv] focuses on pre-prints.
+* WorldCat[^worldcat] Library card catalog covering multiple libraries.
 
 
 
@@ -21,3 +22,5 @@ Andy Stapleton put out a video with his resources for a research paper search[^A
 [^Orr]: **Orr, Richard, Heather Piwowar, and Jason Priem. 2025.** “Unpaywall: An Open Database of 20 Million Free Scholarly Articles.” Reference. Unpaywall. May 28, 2025. https://unpaywall.org/.
 
 [^arXiv]: **Zabih, Ramin, Yoav Artzi, Stephanie Orphan, Steinn Sigurdsson, and Charles Frankston. 2025.** “arXiv.Org e-Print Archive.” Reference. arXiv.Org e-Print Archive. May 28, 2025. https://arxiv.org/.
+
+[^worldcat]: **OCLC. 2025.** “WorldCat.Org.” Reference. WorldCat. May 29, 2025. (https://search.worldcat.org)[https://search.worldcat.org].
